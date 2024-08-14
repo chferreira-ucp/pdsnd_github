@@ -203,6 +203,7 @@ def display_df(df):
                     break
                 
 def main():
+    pd.set_option("display.max_columns", 200)
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
