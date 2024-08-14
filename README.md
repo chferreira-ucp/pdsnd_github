@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+This read me was updated in 14th August 2024.
 
 ### Project Title
-Replace the Project Title
+USA Data bike Analysis
 
 ### Description
-Describe what your project is about and what it does
+This project provides an interactive and easy way to analyse data retrived from three major USA city on bike rental usage.
 
 ### Files used
-Include the files used
+The files to be analysed are 
+*Chicago.csv
+*new_your_city.csv
+*washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Base code was provided by UDACITY.com and worked upon by Carlos Ferreira
 
